@@ -30,7 +30,7 @@ jobs:
         run: nci
 
       - name: Build
-        run: nr build --base /dllm-tmls-2026/
+        run: nr build
 
       - uses: actions/upload-pages-artifact@v3
         with:
