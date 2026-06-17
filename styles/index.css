@@ -1,0 +1,7 @@
+.slidev-layout.table-of-contents {
+  display: none !important;
+}
+
+nav.slidev-toc {
+  display: none !important;
+}
