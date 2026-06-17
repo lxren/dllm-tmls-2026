@@ -763,7 +763,7 @@ Can all be represented in the same latent space
 # 6 Months Ago
 
 <div class ="w-2/3 mx-auto">
-  <img src="/Tweets.png" class="w-full object-contain rounded shadow" />
+  <img src="./public/Tweets.png" class="w-full object-contain rounded shadow" />
 </div>
 
 # 6 Months Later
