@@ -5,6 +5,7 @@ themeConfig:
 hideInToc: true
 addons:
   - '@vueuse/motion'
+base: /dllm-tmls-2026/
 
 bibliography:
   - id: sutton2019bitter
