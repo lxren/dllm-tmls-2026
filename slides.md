@@ -5,7 +5,6 @@ themeConfig:
 hideInToc: true
 addons:
   - '@vueuse/motion'
-routerMode: hash
 
 bibliography:
   - id: sutton2019bitter
