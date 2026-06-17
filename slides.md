@@ -601,7 +601,7 @@ Use **diffusion for planning and reasoning** (iterative, revisable, non-linear) 
 # Where Do We Add Noise in Continuous dLLMs?
 
 <div class ="w-1/3 mx-auto">
-  <img src="./AddNoise.png" class="w-full object-contain rounded shadow" />
+  <img src="/AddNoise.png" class="w-full object-contain rounded shadow" />
 </div>
 
 ---
@@ -611,7 +611,7 @@ Use **diffusion for planning and reasoning** (iterative, revisable, non-linear) 
 **Flow Matching:** Learn a velocity field that pushes noisy representations towards valid text representations
 
 <div class ="w-3/4 mx-auto">
-  <img src="./VelocityField.png" class="w-full object-contain rounded shadow" />
+  <img src="/VelocityField.png" class="w-full object-contain rounded shadow" />
 </div>
 <Footnotes separator>
   <Footnote :number="1">Hu et al. (2026) — ELF: Embedded Language Flows</Footnote>
@@ -624,13 +624,13 @@ Use **diffusion for planning and reasoning** (iterative, revisable, non-linear) 
   <h3 class="text-sm text-gray-500 mt-1">
   Training
   </h3>
-  <img src="./EmbeddingLanguageFlows.png" class="w-full object-contain rounded shadow" />
+  <img src="/EmbeddingLanguageFlows.png" class="w-full object-contain rounded shadow" />
 </div>
 <div class ="w-3/4 mx-auto">
   <h3 class="text-sm text-gray-500 mt-1">
   Inference
   </h3>
-  <img src="./ELFInference.png" class="w-full object-contain rounded shadow" />
+  <img src="/ELFInference.png" class="w-full object-contain rounded shadow" />
 </div>
 
 
@@ -646,7 +646,7 @@ Use **diffusion for planning and reasoning** (iterative, revisable, non-linear) 
 2. A block causal diffusion Transformer
 
 <div class ="w-3/4 mx-auto">
-  <img src="./ContinuousLatentDLM.png" class="w-full object-contain rounded shadow" />
+  <img src="/ContinuousLatentDLM.png" class="w-full object-contain rounded shadow" />
 </div>
 <Footnotes separator>
   <Footnote :number="1">Guo et al. (2026) — Continuous Latent Diffusion Language Model</Footnote>
@@ -670,7 +670,7 @@ For a vocabulary of size $V$, each token ID $y_i \in \{0, \dots, V - 1\}$ is map
 </div>
 
 <div class ="w-3/4 mx-auto">
-  <img src="./BitLM.png" class="w-full object-contain rounded shadow" />
+  <img src="/BitLM.png" class="w-full object-contain rounded shadow" />
 </div>
 <Footnotes separator>
   <Footnote :number="1">Zhuang et al. (2026) — BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion</Footnote>
@@ -682,7 +682,7 @@ For a vocabulary of size $V$, each token ID $y_i \in \{0, \dots, V - 1\}$ is map
 
 <div class="flex gap-8 items-start">
   <div class="w-1/2">
-    <img src="./BitStreamDiffusion.png" class="w-full object-contain rounded shadow" />
+    <img src="/BitStreamDiffusion.png" class="w-full object-contain rounded shadow" />
   </div>
   <div class="w-1/2 flex flex-col gap-4">
     <span><strong>Standard LLM:</strong></span>
@@ -729,7 +729,7 @@ class: text-sm
 
 # Future Direction: Latent Space Engineering
 <div class ="w-1/3 mx-auto">
-  <img src="./LatentSpaceEngineering.png" class="w-full object-contain rounded shadow" />
+  <img src="/LatentSpaceEngineering.png" class="w-full object-contain rounded shadow" />
 </div>
 
 ---
@@ -763,23 +763,23 @@ Can all be represented in the same latent space
 # 6 Months Ago
 
 <div class ="w-2/3 mx-auto">
-  <img src="./Tweets.png" class="w-full object-contain rounded shadow" />
+  <img src="/Tweets.png" class="w-full object-contain rounded shadow" />
 </div>
 
 # 6 Months Later
 
 <div class="grid grid-cols-4 gap-4 mt-8 items-center">
   <div class="flex items-center justify-center">
-    <img src="./Radar.png" class="w-full object-contain" />
+    <img src="Radar.png" class="w-full object-contain" />
   </div>
   <div class="flex items-center justify-center">
-    <img src="./GDM.png" class="w-2/3 object-contain" />
+    <img src="/GDM.png" class="w-2/3 object-contain" />
   </div>
   <div class="flex items-center justify-center">
-    <img src="./InceptionLabs.webp" class="w-2/3 object-contain" />
+    <img src="/InceptionLabs.webp" class="w-2/3 object-contain" />
   </div>
   <div class="flex items-center justify-center">
-    <img src="./ByteDanceSeed.jpg" class="w-full object-contain" />
+    <img src="/ByteDanceSeed.jpg" class="w-full object-contain" />
   </div>
 </div>
 
@@ -808,7 +808,7 @@ layout: center
 
 # Thank You
 <div class ="w-1/3 mx-auto">
-  <img src="./FLL.jpeg" class="w-full object-contain rounded shadow" />
+  <img src="/FLL.jpeg" class="w-full object-contain rounded shadow" />
 </div>
 <div class="text-center mt-4">
   <span class="text-gray-400">iclr-blogposts.github.io/2026/blog/2026/dllm/</span>
