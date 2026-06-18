@@ -174,7 +174,7 @@ bibliography:
 
 ---
 # dLLM — Rethinking Generation Beyond Autoregressive Models
-## ICLR Blogpost 2026 | ICML 2026 Presentation
+## ICLR Blogpost 2026 | TMLS 2026 Presentation
 <br>
 
 ### Suhas Pai & Xiaojun Ren
